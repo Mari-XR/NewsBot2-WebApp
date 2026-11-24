@@ -1,0 +1,2 @@
+# Preserve the upstream CSV bytes and keep full news text out of Git diffs.
+"/data/BBC News Train.csv" -text -diff
